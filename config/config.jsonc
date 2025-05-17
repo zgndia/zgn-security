@@ -13,6 +13,7 @@
         // Rich presence of the server for the bot to display
         "discordRichPresence": "discord.gg/example",
 
+        // The bot's profile picture
         "clientProfilePicture": "profile-picture"
 
     },
@@ -49,7 +50,7 @@
         // Timeout log
         "timeoutLogChannel": "111111111111111111",
 
-        // These perms will have access to the bot commands.
+        // These roles will have access to the bot commands.
         "staff_id": ["111111111111111111","111111111111111111","111111111111111111"]
 
     },
