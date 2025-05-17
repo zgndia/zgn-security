@@ -13,6 +13,7 @@
         // Rich presence of the server for the bot to display
         "discordRichPresence": "discord.gg/example",
 
+        // The bot's profile picture
         "clientProfilePicture": "profile-picture"
 
     },
@@ -25,31 +26,31 @@
         // ID of the guild
         "guildID": "111111111111111111",
 
-        // The profile photo of the guild
-        "guildImage": "guild-image",
+        // The profile picture url of the guild
+        "guildImage": "guild-image-url",
 
         // ID of the voice channel the bot will idle in
         "voiceChannelID": "111111111111111111",
 
-        // Role add log channel
+        // Role add log channel ID
         "roleAddLog": "111111111111111111",
 
-        // Role remove log channel
+        // Role remove log channel ID
         "roleRemoveLog": "111111111111111111",
 
-        // Curse log
+        // Curse log channel ID
         "badWordLogChannel": "111111111111111111",
 
-        // Deleted messages log
+        // Deleted messages log channel ID
         "deletedMsgLogChannel": "111111111111111111",
 
-        // Anti-Raid status channel
+        // Anti-Raid status channel ID
         "serverStatus": "111111111111111111",
 
-        // Timeout log
+        // Timeout log channel ID
         "timeoutLogChannel": "111111111111111111",
 
-        // These perms will have access to the bot commands.
+        // These roles will have access to the bot commands.
         "staff_id": ["111111111111111111","111111111111111111","111111111111111111"]
 
     },
