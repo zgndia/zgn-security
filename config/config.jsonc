@@ -1,0 +1,61 @@
+{
+    "Client_Data": {
+
+        // Bot token
+        "token": "bot-token",
+        
+        // Prefix
+        "prefix": "!",
+
+        // The owner of the bot
+        "ownerID": "111111111111111111",
+
+        // Rich presence of the server for the bot to display
+        "discordRichPresence": "discord.gg/example",
+
+        "clientProfilePicture": "profile-picture"
+
+    },
+
+    "Guild_Data": {
+
+        // Display name of the guild
+        "guildName": "guild-name",
+
+        // ID of the guild
+        "guildID": "111111111111111111",
+
+        // The profile photo of the guild
+        "guildImage": "guild-image",
+
+        // ID of the voice channel the bot will idle in
+        "voiceChannelID": "111111111111111111",
+
+        // Role add log channel
+        "roleAddLog": "111111111111111111",
+
+        // Role remove log channel
+        "roleRemoveLog": "111111111111111111",
+
+        // Curse log
+        "badWordLogChannel": "111111111111111111",
+
+        // Deleted messages log
+        "deletedMsgLogChannel": "111111111111111111",
+
+        // Anti-Raid status channel
+        "serverStatus": "111111111111111111",
+
+        // Timeout log
+        "timeoutLogChannel": "111111111111111111",
+
+        // These perms will have access to the bot commands.
+        "staff_id": ["111111111111111111","111111111111111111","111111111111111111"]
+
+    },
+
+    "Moderation": {
+        // These are words are curse/bad words that are banned from the server.
+        "badWords": ["word1","word2","word3"]
+    }
+}
