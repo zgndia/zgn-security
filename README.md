@@ -1,7 +1,7 @@
 # zgn-security
 This is a discord bot that protects your server from raiders & bots, also some moderation features inside as well.
 
-This bot is a private guild bot, meaning the bot only works on one specific guild unless you change the code.
+This bot is a private guild bot, meaning the bot only works on one specific guild.
 
 # Commands
     lockdown --> [STAFF] Prevents messages from being sent in the selected channel.
